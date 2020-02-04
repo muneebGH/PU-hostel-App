@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">hostelAppT3</string>
+    <string name="blue_logo_welcome">blue logo</string>
+    <string name="welcomet1">Welcome to Pu Hostels App</string>
+    <string name="welcomet2">A convenient and elegant\nHelper for students and\n \tManagement</string>
+    <string name="welcomeDrawing">welcome drawing</string>
+    <string name="signUpButton">Sign up</string>
+    <string name="signInButton">Sign In</string>
+    <string name="welcomeLogin">Welcome Back!</string>
+    <string name="user_name_login">Username</string>
+    <string name="username_hint">User name</string>
+    <string name="passwordHintLogin">Password</string>
+    <string name="forgotPassLogin">Forgot password ?</string>
+    <string name="dont_have_acc_login">Dont have an account ?</string>
+    <string name="createOneLogin">create one</string>
+</resources>
